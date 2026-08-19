@@ -12,9 +12,9 @@
 
 - VFX que se me asignaron:
 
-1. Partículas flotantes
-4. Estela difuminada sin mucha opacidad
-6. Cruz
+1. Partículas flotantes (1)
+4. Estela difuminada sin mucha opacidad (4)
+6. Cruz (6)
 
 #### Video donde se ven los VFX asignados funcionando
 
