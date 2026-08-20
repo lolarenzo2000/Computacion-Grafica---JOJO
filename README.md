@@ -1,13 +1,13 @@
 # Computación-Grafica---JOJO
 
-## Especificación de la duración de los eventos:
+## Actividad #1: Efecto de partículas
+### Especificación de la duración de los eventos
 
 1. Inicio: 0s - 2s
 2. Loop: 2s - 4s
 3. Disipado: 4s - 7s
 
-### Lista donde se ven los efectos del Loop
-
+### Listado de sistemas de partículas loop
 <img width="1280" height="1240" alt="WhatsApp Image 2026-08-19 at 6 15 51 PM" src="https://github.com/user-attachments/assets/9cf5c009-06b6-441e-9d34-686e5b35eee1" />
 
 - VFX que se me asignaron:
@@ -15,6 +15,18 @@
 1. Partículas flotantes (1)
 4. Estela difuminada sin mucha opacidad (4)
 6. Cruz (6)
+### Listado de sistemas de partículas disipado
+1. cruz gira y se encoge en tamaño
+2. estela que rodea ancha y gira, y luego desaparece
+3. estela que rodea delgada y gira, y luego desaparece
+4. estela que rodea ancha y gira, y luego desaparece (contraste)
+5. estela que rodea delgada y gira, y luego desaparece (contraste)
+6. rectángulos que parecen emerger de la cruz
+7. destello horizontal
+8. destello vertical
+9. efecto que parece agua y es como si la cruz irrumpiera en un estanque
+10. efecto que parece agua y es como si la cruz irrumpiera en un estanque (cuando aparece el destello esta como que gira o es otra diferente que aparece girada)
+11. puntos flotantes que desaparecen
 
 #### Video donde se ven los VFX asignados funcionando
 
