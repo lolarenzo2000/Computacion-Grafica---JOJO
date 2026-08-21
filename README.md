@@ -12,12 +12,12 @@
 
 - VFX en el loop:
 
-1. Partículas flotantes (1)
+1. Partículas flotantes 
 2. Destello largo que sale de la cruz, iluminación
 3. Aurora que rodea a la cruz con opacidad
-4. Estela difuminada sin mucha opacidad (4)
+4. Estela difuminada sin mucha opacidad 
 5. Estela difuminada con mucha opacidad
-6. Cruz (6)
+6. Cruz 
 
 ### Listado de sistemas de partículas disipado
 <img width="442" height="485" alt="WhatsApp Image 2026-08-20 at 16 58 57" src="https://github.com/user-attachments/assets/6eaadcab-fa3e-4218-afca-3a4acebd8967" />
