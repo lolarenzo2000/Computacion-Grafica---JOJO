@@ -16,6 +16,9 @@
 4. Estela difuminada sin mucha opacidad (4)
 6. Cruz (6)
 ### Listado de sistemas de partículas disipado
+<img width="442" height="485" alt="WhatsApp Image 2026-08-20 at 16 58 57" src="https://github.com/user-attachments/assets/6eaadcab-fa3e-4218-afca-3a4acebd8967" />
+<img width="229" height="219" alt="WhatsApp Image 2026-08-20 at 17 00 08" src="https://github.com/user-attachments/assets/a319fe67-a9dc-4b30-aa35-d7cfba1a0133" />
+
 1. cruz gira y se encoge en tamaño
 2. estela que rodea ancha y gira, y luego desaparece
 3. estela que rodea delgada y gira, y luego desaparece
@@ -28,7 +31,7 @@
 10. efecto que parece agua y es como si la cruz irrumpiera en un estanque (cuando aparece el destello esta como que gira o es otra diferente que aparece girada)
 11. puntos flotantes que desaparecen
 
-#### Video donde se ven los VFX asignados funcionando
+#### Video donde se ven los VFX asignados funcionando (Extra)
 
 https://drive.google.com/file/d/1oe4y7gjuwwqBc7YhwY3iEHNFg4tPWW3m/view?usp=sharing
 
