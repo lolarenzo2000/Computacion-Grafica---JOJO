@@ -36,6 +36,8 @@
 11. puntos flotantes que desaparecen
 
 #### Video donde se ven los VFX asignados funcionando (Extra)
-
 https://drive.google.com/file/d/1oe4y7gjuwwqBc7YhwY3iEHNFg4tPWW3m/view?usp=sharing
 
+
+### Video Todo Unido:
+https://github.com/user-attachments/assets/f6644cfd-3425-4f36-ba58-202c05c547f5
