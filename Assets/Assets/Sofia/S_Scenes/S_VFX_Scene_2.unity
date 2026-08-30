@@ -173,31 +173,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.81600916
+      value: -0.07187539
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.4116917
+      value: 1.1670883
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.0729596
+      value: 0.6206026
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.6999614
+      value: 0.3507193
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.21298155
+      value: 0.6553703
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.21801776
+      value: 0.29803646
       objectReference: {fileID: 0}
     - target: {fileID: 7455052563442308447, guid: 036ffb35b08df8d5c963f77a784a0323, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.6458801
+      value: -0.5988824
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5550,13 +5550,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2017208982}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.19415641, y: -0.14282416, z: -0.35706532, w: 0.9024461}
+  m_LocalRotation: {x: -0.28137746, y: -0.37555966, z: -0.2932901, w: 0.83292407}
   m_LocalPosition: {x: -0.33, y: 1.11, z: 0.33}
   m_LocalScale: {x: 1.5717527, y: 1.5717527, z: 1.5717527}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1768558224}
-  m_LocalEulerAnglesHint: {x: -26.899, y: -7.677, z: -41.335}
+  m_LocalEulerAnglesHint: {x: -43.553, y: -39.458, z: -22.49}
 --- !u!199 &2017208984
 ParticleSystemRenderer:
   serializedVersion: 7
@@ -5619,7 +5619,7 @@ ParticleSystemRenderer:
   m_ShadowBias: 0
   m_RenderAlignment: 2
   m_Pivot: {x: 0, y: 0, z: 0}
-  m_Flip: {x: 0, y: 0, z: 0}
+  m_Flip: {x: 1, y: 0, z: 0}
   m_EnableGPUInstancing: 1
   m_ApplyActiveColorSpace: 1
   m_AllowRoll: 1
@@ -5720,7 +5720,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.5
+      scalar: 0.35
       minScalar: 5
       maxCurve:
         serializedVersion: 2
