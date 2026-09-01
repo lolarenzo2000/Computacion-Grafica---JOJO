@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_VFX_slash1
+  m_Name: M_VFX_slash2
   m_Shader: {fileID: -6465566751694194690, guid: 9abfdec1d2830144b838479ee236adb1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -32,7 +32,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: c2d020fb7e34c3943b5b1e7e17c5cb23, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1c97b317e359aa14c8d653f22c4390ac, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -144,7 +144,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
-    - _Color: {r: 2.1185474, g: 2.1185474, b: 2.1185474, a: 1}
+    - _Color: {r: 7.906699, g: 7.906699, b: 7.906699, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SoftParticleData: {r: 0, g: 1, b: 0, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
