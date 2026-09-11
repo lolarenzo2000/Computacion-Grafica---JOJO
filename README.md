@@ -41,3 +41,8 @@ https://drive.google.com/file/d/1oe4y7gjuwwqBc7YhwY3iEHNFg4tPWW3m/view?usp=shari
 
 ### Video Todo Unido:
 https://github.com/user-attachments/assets/f6644cfd-3425-4f36-ba58-202c05c547f5
+
+
+## Actividad 2: slash
+### Video Todo Unido:
+https://github.com/user-attachments/assets/7bcd8489-be5b-4c67-991f-f06249af4e76
