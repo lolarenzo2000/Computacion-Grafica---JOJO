@@ -100,6 +100,34 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_021164d078cf4e9fa86eef7f2d6969fb_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7df688f524d4e4488f4d52f9f0532da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_52839f78be014255b9848db387c57f28_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7df688f524d4e4488f4d52f9f0532da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_85cfe888f6e8450589c974c73755af6c_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7df688f524d4e4488f4d52f9f0532da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_b303ff1916ad4868a83cb82756f23832_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7df688f524d4e4488f4d52f9f0532da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_d211fdbc9b9f4fbea26b3d0896a083fd_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7df688f524d4e4488f4d52f9f0532da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_d262ed9f7f484e11a6d14d916c5bf1aa_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7df688f524d4e4488f4d52f9f0532da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_d60f7e0d175046c78e0223fbe804555c_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7df688f524d4e4488f4d52f9f0532da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -174,13 +202,13 @@ Material:
     - _CausticColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DeepColor: {r: 0.14819425, g: 0.41568628, b: 0.7987421, a: 0}
-    - _DensityParams: {r: 0, g: 1, b: 0, a: 0}
+    - _DensityParams: {r: 1.16, g: -1.27, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 0.96855336, g: 0.96550757, b: 0.96550757, a: 1}
     - _FoamNoiseFuzzines: {r: 3, g: 0.9, b: 0, a: 0}
     - _FoamSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _LightColor: {r: 0.1331236, g: 0.7155858, b: 0.7987421, a: 0}
-    - _LightScatterParams: {r: 2.52, g: -5.02, b: 0, a: 0}
+    - _LightScatterParams: {r: 2.52, g: -4.88, b: 0, a: 0}
     - _NoiseVelocity: {r: 0.05, g: -0.05, b: 0, a: 0}
     - _RefractionIntensity: {r: 4, g: 0, b: 0, a: 0}
     - _Scatter: {r: 0, g: 5, b: 0, a: 0}
