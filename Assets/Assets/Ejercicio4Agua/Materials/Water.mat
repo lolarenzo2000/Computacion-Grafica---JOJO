@@ -151,7 +151,7 @@ Material:
     - _CausticCutout: 0
     - _CausticTilling: 0
     - _CausticsSpeed: 0
-    - _CellDensity: 30
+    - _CellDensity: 8.5
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -172,14 +172,14 @@ Material:
     - _FoamFalloff: 0
     - _FoamMax: 0
     - _FoamMin: 0
-    - _FoamNoiseSpeed: 3
+    - _FoamNoiseSpeed: 0.1
     - _FoamShoreWidth: 16.44
     - _FoamTiling: 0
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _Normal_Strenght: 0.34
+    - _Normal_Strenght: 0.01
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -205,11 +205,11 @@ Material:
     - _DensityParams: {r: 1.16, g: -1.27, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 0.96855336, g: 0.96550757, b: 0.96550757, a: 1}
-    - _FoamNoiseFuzzines: {r: 3, g: 0.9, b: 0, a: 0}
+    - _FoamNoiseFuzzines: {r: 0.48, g: 1.1, b: 0, a: 0}
     - _FoamSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _LightColor: {r: 0.1331236, g: 0.7155858, b: 0.7987421, a: 0}
     - _LightScatterParams: {r: 2.52, g: -4.88, b: 0, a: 0}
-    - _NoiseVelocity: {r: 0.05, g: -0.05, b: 0, a: 0}
+    - _NoiseVelocity: {r: 0, g: 0, b: 0, a: 0}
     - _RefractionIntensity: {r: 4, g: 0, b: 0, a: 0}
     - _Scatter: {r: 0, g: 5, b: 0, a: 0}
     - _ShallowColor: {r: 0.1254902, g: 0.7294118, b: 0.8235294, a: 0}
