@@ -54,6 +54,13 @@ https://github.com/user-attachments/assets/7bcd8489-be5b-4c67-991f-f06249
 
 ## Actividad Final
 ### Videos
+
+https://github.com/user-attachments/assets/d0b7db01-4552-4afe-ad48-86feb7f3c712
+
+https://github.com/user-attachments/assets/5c64309e-9942-4ac3-af22-9dd084d73945
+
+https://github.com/user-attachments/assets/43f62093-e6a6-4d2f-a42d-94f579f3b269
+
 ### Builds
 Build Web y Windows: [Link Itch](https://lolarenzo2000.itch.io/effects)
 
