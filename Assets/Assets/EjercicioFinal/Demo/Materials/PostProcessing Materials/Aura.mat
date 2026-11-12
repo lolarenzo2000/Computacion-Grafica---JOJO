@@ -37,7 +37,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Dist_Strength: 37.7
+    - _ColorThreshold: 0.16884148
+    - _Dist_Strength: -0.13329655
     - _Normal_Thick: -7.35
     - _Strenght: 1
     - _Thick: 0
@@ -47,6 +48,7 @@ Material:
     - _Color: {r: 2, g: 0.45754808, b: 0, a: 1}
     - _GreenAberration: {r: 0, g: 0, b: 0, a: 0}
     - _Outline: {r: 0, g: 0.6497865, b: 1, a: 1}
+    - _OutlineColor: {r: 0.5056603, g: 0.87959087, b: 4, a: 1}
     - _Position: {r: 0, g: 0, b: -3.71, a: 0}
     - _Postion: {r: 0, g: -0.2, b: -6.36, a: 0}
     - _RedAberration: {r: 0.008, g: 0, b: 0, a: 0}

@@ -65,7 +65,7 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
-    - _Disolve: 0
+    - _Disolve: 0.00018432591
     - _DisplacementStrength: 0.1
     - _DistortionStrength: 0.35
     - _DstBlend: 10
