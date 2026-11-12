@@ -52,3 +52,8 @@ https://github.com/user-attachments/assets/7bcd8489-be5b-4c67-991f-f06249
 [![Watch the video](https://img.youtube.com/vi/valsTFBXH6o/maxresdefault.jpg)](https://youtu.be/valsTFBXH6o)
 
 
+## Actividad Final
+### Videos
+### Builds
+Build Web y Windows: [Link Itch](https://lolarenzo2000.itch.io/effects)
+
